@@ -1,0 +1,355 @@
+[24Mar2026 19:47:17.589] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.220, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[24Mar2026 19:47:17.591] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 25.0.1+8-LTS
+[24Mar2026 19:47:17.593] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 25.0.1 by Microsoft; OS Linux arch amd64 version 6.8.0-1044-azure
+[24Mar2026 19:47:17.686] [main/WARN] [net.neoforged.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Server-de-mc/config/fml.toml is not correct. Correcting
+[24Mar2026 19:47:17.748] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Mar2026 19:47:17.793] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/workspaces/Server-de-mc/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[24Mar2026 19:47:17.804] [main/WARN] [net.neoforged.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Server-de-mc/config/fml.toml is not correct. Correcting
+[24Mar2026 19:47:18.189] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.220:server]
+[24Mar2026 19:47:18.214] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.220-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.1.220/neoforge-21.1.220-universal.jar]], reader: mod manifest]
+[24Mar2026 19:47:18.230] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "alltheleaks-1.1.7+1.21.1-neoforge.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.237] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Almanac-1.21.1-2-neoforge-1.5.2.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.243] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "alternate_current-mc1.21-1.9.0.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.249] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.252] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "azurelib-neo-1.21.1-3.1.3.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.260] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BadOptimizations-2.4.1-1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.264] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.1-21.0.56.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.267] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "blockui-1.0.211-1.21.1-snapshot.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.295] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bookshelf-neoforge-1.21.1-21.1.81.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.299] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "carryon-neoforge-1.21.1-2.2.4.4.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.303] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "citadel-2.7.0-1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.307] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.310] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "comforts-neoforge-9.0.5+1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.314] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cupboard-1.21-3.5.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.317] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.5.1+1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.323] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.328] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DungeonsArise-1.21.1-2.1.68-release.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.333] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "embeddium-1.0.15+mc1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.336] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entityculling-neoforge-1.9.5-mc1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.338] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FallingTree-1.21.1-1.21.1.11.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.341] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fastleafdecay-35.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "framework-neoforge-1.21.1-0.13.11.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.350] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.8.4.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.352] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "goblintraders-neoforge-1.21.1-1.11.2.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.355] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.372] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.1-NeoForge-15.10.5.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.381] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.27.0.340.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.384] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.1-6.0.0-beta.56.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.387] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinforforge-5.11.0-all.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.390] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "letmedespawn-1.21.x-neoforge-1.5.0.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.395] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lionfishapi-2.6.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.398] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.3+mc1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.401] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "modernfix-neoforge-5.26.1+mc1.21.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.403] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MouseTweaks-neoforge-mc1.21-2.26.1.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.405] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "NaturesCompass-1.21.1-3.0.3-neoforge.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.407] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Patchouli-1.21.1-93-NEOFORGE.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.410] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rubidium-extra-0.5.7e+mc1.21-build.132.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.413] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Searchables-neoforge-1.21.1-1.0.2.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.416] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.1-3.25.34.1581.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.421] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.1-1.4.10.1531.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.427] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.1-21.1.29.jar" [locator: {mods folder locator at /workspaces/Server-de-mc/mods}, reader: mod manifest]
+[24Mar2026 19:47:18.908] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 24 dependencies adding them to mods collection
+[24Mar2026 19:47:18.909] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [parent: neoforge-21.1.220-universal.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.909] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.0.7+1.21.jar" [parent: balm-neoforge-1.21.1-21.0.56.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.910] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-jdk8-1.10.2.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.910] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "NanoLiveConfig-2.3.2.jar" [parent: rubidium-extra-0.5.7e+mc1.21-build.132.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.910] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.220.jar" [parent: neoforge-21.1.220-universal.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk7-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TRansition-1.0.11-1.21.1-neoforge-SNAPSHOT.jar" [parent: entityculling-neoforge-1.9.5-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.56.jar, locator: jarinjar]
+[24Mar2026 19:47:18.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "Reflect-1.6.1+curseforge.jar" [parent: ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar, locator: jarinjar]
+[24Mar2026 19:47:18.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinsquared-neoforge-0.3.3.jar" [parent: alltheleaks-1.1.7+1.21.1-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.912] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "thedarkcolour.kfflang-5.11.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.912] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "spectrelib-neoforge-0.17.2+1.21.jar" [parent: comforts-neoforge-9.0.5+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.915] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk8-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.915] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "thedarkcolour.kfflib-5.11.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.915] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.20-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.56.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.915] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "MixinSquared-0.3.3.jar" [parent: mixinsquared-neoforge-0.3.3.jar, locator: jarinjar]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-core-jvm-1.9.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TRender-1.0.10-1.21.1-neoforge-SNAPSHOT.jar" [parent: entityculling-neoforge-1.9.5-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "thedarkcolour.kffmod-5.11.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-reflect-2.3.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-json-jvm-1.9.0.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.1-SNAPSHOT.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.56.jar, locator: jarinjar, reader: mod manifest]
+[24Mar2026 19:47:18.919] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-core-jvm-1.10.2.jar" [parent: kotlinforforge-5.11.0-all.jar, locator: jarinjar]
+[24Mar2026 19:47:18.924] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		All The Leaks 1.1.7+1.21.1-neoforge (alltheleaks)
+		Almanac 1.5.2 (almanac)
+		Alternate Current 1.9.0 (alternate_current)
+		Architectury 13.0.8 (architectury)
+		AzureLib 3.1.3 (azurelib)
+		BadOptimizations 2.4.1 (badoptimizations)
+		Balm 21.0.56 (balm)
+		Bookshelf 21.1.81 (bookshelf)
+		Carry On 2.2.4 (carryon)
+		Citadel 2.7.0 (citadel)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Comforts 9.0.5+1.21.1 (comforts)
+		Common Networking 1.0.20-1.21.1 (commonnetworking)
+		Cupboard mod 3.5 (cupboard)
+		Curios API 9.5.1+1.21.1 (curios)
+		Distant Horizons 2.4.5-b (distanthorizons)
+		Embeddium 1.0.15+mc1.21.1 (embeddium)
+		Embeddium Extra 0.5.7e+mc1.21-build.132 (embeddium_extra)
+		EntityCulling 1.9.5 (entityculling)
+		FallingTree 1.21.1.11 (fallingtree)
+		FastLeafDecay 35 (fastleafdecay)
+		Framework 0.13.11 (framework)
+		GeckoLib 4 4.8.4 (geckolib)
+		Goblin Traders 1.11.2 (goblintraders)
+		ImmediatelyFast 1.6.10+1.21.1 (immediatelyfast)
+		Jade 15.10.5+neoforge (jade)
+		Journeymap 1.21.1-6.0.0-beta.56 (journeymap)
+		JourneyMap API 2.0.0 (journeymap_api)
+		Just Enough Items 19.27.0.340 (jei)
+		Kotlin For Forge 5.11.0 (kotlinforforge)
+		KumaAPI 21.0.7 (kuma_api)
+		Let Me Despawn 1.5.0 (letmedespawn)
+		lionfishapi 2.6 (lionfishapi)
+		Lithium 0.15.3+mc1.21.1 (lithium)
+		Minecraft 1.21.1 (minecraft)
+		ModernFix 5.26.1+mc1.21.1 (modernfix)
+		Mouse Tweaks 2.26.1 (mousetweaks)
+		Nature's Compass 1.21.1-3.0.2-neoforge (naturescompass)
+		NeoForge 21.1.220 (neoforge)
+		Patchouli 1.21.1-93-NEOFORGE (patchouli)
+		Searchables 1.0.2 (searchables)
+		Sophisticated Backpacks 3.25.34 (sophisticatedbackpacks)
+		Sophisticated Core 1.4.10 (sophisticatedcore)
+		SpectreLib 0.17.2+1.21 (spectrelib)
+		TRansition 1.0.11 (transition)
+		TRender 1.0.10 (trender)
+		UI Library Mod 1.0.211-1.21.1-snapshot (blockui)
+		Waystones 21.1.29 (waystones)
+		When Dungeons Arise 2.1.68 (dungeons_arise)
+[24Mar2026 19:47:20.045] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Mar2026 19:47:20.053] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[24Mar2026 19:47:20.234] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[24Mar2026 19:47:20.316] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.317] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.376] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[24Mar2026 19:47:20.376] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[24Mar2026 19:47:20.380] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[24Mar2026 19:47:20.380] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[24Mar2026 19:47:20.381] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 148 options available, 0 override(s) found
+[24Mar2026 19:47:20.387] [main/WARN] [mixin/]: Reference map 'goblintraders.refmap.json' for goblintraders.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.389] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.394] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.589] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.26.1+mc1.21.1: 78 options available, 0 override(s) found
+[24Mar2026 19:47:20.590] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[24Mar2026 19:47:20.591] [main/WARN] [mixin/]: Reference map 'modernfix.refmap.json' for modernfix-modernfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.594] [main/WARN] [mixin/]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.595] [main/WARN] [mixin/]: Reference map 'citadel.refmap.json' for citadel.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.599] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.601] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.723] [main/WARN] [mixin/]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.733] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 94 options available, 0 override(s) found
+[24Mar2026 19:47:20.737] [main/WARN] [mixin/]: Reference map 'embeddium-refmap.json' for embeddium.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.771] [main/WARN] [mixin/]: Reference map 'lionfishapi.refmap.json' for lionfishapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.772] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.772] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.773] [main/WARN] [mixin/]: Reference map 'patchouli.refmap.json' for patchouli_xplat.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.773] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.774] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.774] [main/WARN] [mixin/]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:20.828] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[24Mar2026 19:47:20.829] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2026 19:47:21.645] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.neoforge.Issue1487 will be loaded as it matches versions: 21.1.220 in [21.,)
+[24Mar2026 19:47:21.645] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin, main.accessor.PlayerAdvancementsAccessor]
+[24Mar2026 19:47:21.645] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.neoforge.Issue1486 will be loaded as it matches versions: 21.1.220 in [21.,)
+[24Mar2026 19:47:21.645] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue003 will be loaded as it matches versions: 1.21.1 in [1.21.1,1.21.1]
+[24Mar2026 19:47:21.645] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.DebugSampleSubscriptionTrackerMixin]
+[24Mar2026 19:47:21.646] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.21.1 in 1.21.1
+[24Mar2026 19:47:21.646] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.21.1 in 1.21.1
+[24Mar2026 19:47:21.646] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.EntityTickListMixin]
+[24Mar2026 19:47:21.647] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.geckolib.UntrackedIssue001 will be loaded as it matches versions: 4.8.4 in *
+[24Mar2026 19:47:21.647] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.SingletonGeoAnimatableMixin]
+[24Mar2026 19:47:21.647] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.Issue22 will be loaded as it matches versions: 9.5.1+1.21.1 in [9.0.6,)
+[24Mar2026 19:47:21.647] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.CuriosEventHandlerMixin]
+[24Mar2026 19:47:21.658] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.feature.common.mods.minecraft.SaveWithLoadedChunks will be loaded as it matches versions: 1.21.1 in 1.21.1
+[24Mar2026 19:47:21.659] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.feature.common.mods.minecraft.MemoryMonitor will be loaded as it matches versions: 1.21.1 in 1.21.1
+[24Mar2026 19:47:21.659] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.PlayerMixin, main.ChunkAccessMixin, main.LevelMixin, main.MinecraftServerMixin]
+[24Mar2026 19:47:21.659] [main/INFO] [AllTheLeaks/]: Class dev.uncandango.alltheleaks.diag.common.mods.minecraft.LogSavedData will be loaded as it matches versions: 21.1.220 in [21.1,)
+[24Mar2026 19:47:21.659] [main/INFO] [AllTheLeaks/]: Mixins added to allowed list: [main.SavedDataMixin]
+[24Mar2026 19:47:22.111] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[24Mar2026 19:47:22.708] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (6.493 s after launch)
+[24Mar2026 19:47:25.148] [main/WARN] [mixin/]: Method overwrite conflict for getTemperature in modernfix-modernfix.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[24Mar2026 19:47:28.259] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 5550 milliseconds
+[24Mar2026 19:47:28.439] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.220, for MC 1.21.1
+[24Mar2026 19:47:28.608] [modloading-worker-0/INFO] [net.blay09.mods.balm.neoforge.config.NeoForgeBalmConfig/]: Registering config for waystones:common (COMMON) with 34 properties.
+[24Mar2026 19:47:28.789] [modloading-worker-0/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[24Mar2026 19:47:28.876] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[24Mar2026 19:47:28.887] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[24Mar2026 19:47:29.210] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[24Mar2026 19:47:29.913] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/api/mod_update/neoforge/goblintraders
+[24Mar2026 19:47:30.208] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[24Mar2026 19:47:30.227] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Running library validation...
+[24Mar2026 19:47:30.255] [NeoForge Version Check/WARN] [net.neoforged.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1238) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1047) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.VersionChecker$1.process(VersionChecker.java:167) [loader-4.0.42.jar%2359!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.VersionChecker$1.run(VersionChecker.java:105) [loader-4.0.42.jar%2359!/:4.0]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.1.jar%2394!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%2394!/:?]
+	... 6 more
+[24Mar2026 19:47:30.259] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[24Mar2026 19:47:30.398] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.0-beta.56 Target: 1.21.1-6.0.0-beta.52
+[24Mar2026 19:47:30.407] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.21.1&ml=neoforge
+[24Mar2026 19:47:30.442] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
+[24Mar2026 19:47:30.445] [modloading-worker-0/WARN] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Distant Horizons: G1 Garbage collector detected. 
+This garbage collector can cause FPS stuttering. 
+It's recommended to use a concurrent garbage collector 
+like ZGC (Java 21+) or Shenandoah (Java 8 through 17) for a smoother experience. 
+
+[24Mar2026 19:47:30.453] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Distant Horizons, Version: 2.4.5-b
+[24Mar2026 19:47:30.469] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Skipping mod compatibility accessor for: [optifine]
+[24Mar2026 19:47:30.470] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Skipping mod compatibility accessor for: [c2me]
+[24Mar2026 19:47:30.471] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Skipping mod compatibility accessor for: [iris]
+[24Mar2026 19:47:30.471] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Distant Horizons server Initialized, adding event subscribers...
+[24Mar2026 19:47:30.723] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.waystones.compat.JadeIntegration
+[24Mar2026 19:47:30.737] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.balm.neoforge.compat.hudinfo.NeoForgeJadeModCompat
+[24Mar2026 19:47:30.738] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[24Mar2026 19:47:30.756] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[24Mar2026 19:47:30.764] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[24Mar2026 19:47:30.765] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[24Mar2026 19:47:30.766] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[24Mar2026 19:47:30.871] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 21.1.81 Target: 21.1.81
+[24Mar2026 19:47:30.871] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.1&ml=neoforge
+[24Mar2026 19:47:30.953] [main/WARN] [net.neoforged.neoforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 issues
+[24Mar2026 19:47:30.954] [main/WARN] [net.neoforged.neoforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore [[]]
+[24Mar2026 19:47:30.954] [main/WARN] [net.neoforged.neoforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning [[]]
+[24Mar2026 19:47:30.971] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[24Mar2026 19:47:30.971] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[24Mar2026 19:47:31.000] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[24Mar2026 19:47:31.055] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-de-mc/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23158!/assets/.mcassetsroot' uses unexpected schema
+[24Mar2026 19:47:31.056] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-de-mc/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23158!/data/.mcassetsroot' uses unexpected schema
+[24Mar2026 19:47:31.082] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [embeddium_extra] Found status: BETA Current: 0.5.7e+mc1.21-build.132 Target: null
+[24Mar2026 19:47:31.840] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[24Mar2026 19:47:32.796] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1469 recipes
+[24Mar2026 19:47:32.995] [main/ERROR] [net.minecraft.advancements.AdvancementTree/]: Couldn't load advancements: [dungeons_arise:find_thornborn_towers, dungeons_arise:find_fishing_hut]
+[24Mar2026 19:47:32.996] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1612 advancements
+[24Mar2026 19:47:33.008] [main/INFO] [Curios API/]: Loaded 10 curio slots
+[24Mar2026 19:47:33.011] [main/INFO] [Curios API/]: Loaded 1 curio entities
+[24Mar2026 19:47:33.225] [main/WARN] [ModernFix/]: Initial datapack load took 2.136 s
+[24Mar2026 19:47:33.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[24Mar2026 19:47:33.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Mar2026 19:47:33.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Mar2026 19:47:33.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Mar2026 19:47:33.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Mar2026 19:47:33.488] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Mar2026 19:47:33.527] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Mar2026 19:47:33.528] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Mar2026 19:47:33.528] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Mar2026 19:47:33.529] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Mar2026 19:47:33.549] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Mar2026 19:47:33.632] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: Initialising config for [DistantHorizons]
+[24Mar2026 19:47:33.711] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: [DistantHorizons] Config initialised
+[24Mar2026 19:47:33.725] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.eventHandlers.IgnoredDimensionCsvHandler/]: Dimension ignoring disabled, DH will render all dimensions.
+[24Mar2026 19:47:33.725] [Server thread/INFO] [com.seibel.distanthorizons.core.logging.DhLogger/]: Applying config to loggers
+[24Mar2026 19:47:33.726] [Server thread/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Running Delayed setup...
+[24Mar2026 19:47:33.726] [Server thread/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[24Mar2026 19:47:33.742] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Checking for Distant Horizons update
+[24Mar2026 19:47:33.974] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Distant Horizons already up to date.
+[24Mar2026 19:47:33.975] [Server thread/INFO] [DistantHorizons-DistantHorizons-loaderCommon.neoforge.com.seibel.distanthorizons.common.AbstractModInitializer/]: Distant Horizons server Initialized at 
+[24Mar2026 19:47:33.982] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Mar2026 19:47:33.989] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Started [DhServerWorld] of type [SERVER_ONLY].
+[24Mar2026 19:47:33.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Mar2026 19:47:34.479] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.492] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.505] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.510] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.525] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.533] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.537] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.546] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.552] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.564] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0090-sqlite-addAdjacentFullDataColumns.sql], for repo: [./world/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:34.592] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[24Mar2026 19:47:34.614] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(./world/data)]].
+[24Mar2026 19:47:34.658] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[24Mar2026 19:47:34.668] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[24Mar2026 19:47:34.672] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[24Mar2026 19:47:34.673] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-modernfix.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[24Mar2026 19:47:34.684] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:overworld].
+[24Mar2026 19:47:44.898] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.909] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.920] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.929] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.936] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.943] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.951] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.955] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.958] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.962] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0090-sqlite-addAdjacentFullDataColumns.sql], for repo: [./world/DIM-1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:44.970] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[24Mar2026 19:47:44.975] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(./world/data;./world/DIM-1/data)]].
+[24Mar2026 19:47:44.993] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[24Mar2026 19:47:44.993] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[24Mar2026 19:47:44.994] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[24Mar2026 19:47:44.994] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_nether].
+[24Mar2026 19:47:45.013] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.023] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.032] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.036] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.043] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.047] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.050] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.055] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.058] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.063] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.DatabaseUpdater/]: Running SQL update script: [sqlScripts/0090-sqlite-addAdjacentFullDataColumns.sql], for repo: [./world/DIM1/data/DistantHorizons.sqlite]
+[24Mar2026 19:47:45.070] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[24Mar2026 19:47:45.076] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(./world/data;./world/DIM1/data;./world/DIM-1/data)]].
+[24Mar2026 19:47:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Mar2026 19:47:45.093] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[24Mar2026 19:47:45.094] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Creating world gen queue
+[24Mar2026 19:47:45.094] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.WorldGenerationQueue/]: Created world gen queue
+[24Mar2026 19:47:45.095] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_end].
+[24Mar2026 19:47:45.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[24Mar2026 19:47:45.595] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[24Mar2026 19:47:46.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[24Mar2026 19:47:46.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[24Mar2026 19:47:47.142] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[24Mar2026 19:47:47.664] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[24Mar2026 19:47:48.092] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[24Mar2026 19:47:48.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[24Mar2026 19:47:49.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[24Mar2026 19:47:49.594] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[24Mar2026 19:47:49.595] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[24Mar2026 19:47:49.603] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[24Mar2026 19:47:49.604] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[24Mar2026 19:47:49.604] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[24Mar2026 19:47:49.608] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[24Mar2026 19:47:50.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[24Mar2026 19:47:50.205] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5123 ms
+[24Mar2026 19:47:50.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.661s)! For help, type "help"
+[24Mar2026 19:47:50.296] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[24Mar2026 19:47:50.307] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[24Mar2026 19:47:50.308] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@ba84d1 for service interface journeymap.api.services.ClientPlatformService
+[24Mar2026 19:47:50.312] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@6d14d39d for service interface journeymap.api.services.CommonPlatformService
+[24Mar2026 19:47:50.338] [Server thread/INFO] [journeymap/]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[24Mar2026 19:47:50.425] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[24Mar2026 19:47:50.442] [Server thread/WARN] [ModernFix/]: Dedicated server took 34.229 seconds to load
+[24Mar2026 19:47:50.518] [Server thread/INFO] [STDOUT/]: [net.caffeinemc.mods.lithium.common.block.TrackedBlockStatePredicate:<clinit>:13]: Lithium Cached BlockState Flags are disabled!
+[24Mar2026 19:57:50.445] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[24Mar2026 19:57:50.446] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[24Mar2026 19:57:50.447] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [0/10]
+[24Mar2026 19:57:50.447] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[24Mar2026 20:07:50.494] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[24Mar2026 20:07:50.495] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[24Mar2026 20:07:50.495] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [0/10]
+[24Mar2026 20:07:50.495] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[24Mar2026 20:17:50.544] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[24Mar2026 20:17:50.545] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[24Mar2026 20:17:50.545] [Server thread/INFO] [AllTheLeaks/]: Waiting to stabilize [0/10]
+[24Mar2026 20:17:50.546] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
